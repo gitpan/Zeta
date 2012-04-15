@@ -1,0 +1,7 @@
+Revision history for Zeta
+
+0.01    2012-04-14
+	Initial release, rebuilding from internal versions not released
+	to CPAN before. First component added is Utils module, underlying
+	functions that provide some basic data type and string checks.
+
