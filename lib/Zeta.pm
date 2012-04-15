@@ -8,16 +8,15 @@ use Zeta::Util qw(:ALL);
 
 =head1 NAME
 
-A loose collection of modules that can simplify creation of various scripts,
-applications, and web-applications.
+Zeta - A loose collection of modules for script, application, and web-application development.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.03
 
 =cut
 
-our $VERSION = '0.01';
+our $VERSION = '0.03';
 
 =head1 SYNOPSIS
 
