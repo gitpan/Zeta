@@ -9,13 +9,12 @@ BEGIN {
 
 my $expected = {
     'filetype'       => 'file',
-	'mode'           => '0664',
-	'size'           => 610,
+	'mode'           => '0644',
+	'size'           => 586,
 	'file_name'      => '05-util-fileinfo',
-	'mode_dec'       => 436,
+	'mode_dec'       => 420,
 	'file_extension' => 't',
 	'filename'       => '05-util-fileinfo.t',
-	'rdev'           => 0,
 };
 
 my $fileinfo = get_file_details($0);
